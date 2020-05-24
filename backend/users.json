@@ -1,0 +1,144 @@
+[
+    {
+       "id": 1,
+       "name" : "mahesh",
+       "gender" : "M",
+       "password" : "password1",
+       "profession" : "teacher",
+       "address": "Bangalore",
+       "phone" : "976547896",
+       "experience" : "4 years",
+       "maritalStatus" : "Married",
+       "email" : "mahesh@gmail.com"
+
+
+
+       
+    },
+    
+   {
+       "id": 2,
+       "name" : "suresh",
+       "gender" : "M",
+       "password" : "password2",
+       "profession" : "librarian",
+       "address": "Bhopal",
+       "phone" : "976547676",
+       "experience" : "2 years",
+       "maritalStatus" : "Married",
+       "email" : "suresh@gmail.com"
+   },
+       
+    
+   {
+       "id": 3,
+       "name" : "ramesh",
+       "gender" : "M",
+       "password" : "password3",
+       "profession" : "clerk",
+       "address": "Kolkata",
+       "phone" : "786547676",
+       "experience" : "1 year",
+       "maritalStatus" : "Single",
+       "email" : "ramesh00@gmail.com"
+      
+    },
+
+    {
+        "id": 4,
+        "name" : "divya",
+        "gender" : "F",
+        "password" : "password4",
+        "profession" : "doctor",
+        "address": "Bangalore",
+        "phone" : "786547689",
+        "experience" : "2 year",
+        "maritalStatus" : "Single",
+        "email" : "divya00@gmail.com"
+       
+     },
+     {
+        "id": 5,
+        "name" : "mohit",
+        "gender" : "M",
+        "password" : "password5",
+        "profession" : "engineer",
+        "address": "pune",
+        "phone" : "786547667",
+        "experience" : "1 year",
+        "maritalStatus" : "Single",
+        "email" : "mohit00@gmail.com"
+       
+     },
+
+     {
+        "id": 6,
+        "name" : "ankit",
+        "gender" : "M",
+        "password" : "password6",
+        "profession" : "clerk",
+        "address": "orissa",
+        "phone" : "976547676",
+        "experience" : "7 year",
+        "maritalStatus" : "Married",
+        "email" : "ankit@gmail.com"
+       
+     },
+
+     {
+        "id": 7,
+        "name" : "meera",
+        "gender" : "F",
+        "password" : "password7",
+        "profession" : "librarian",
+        "address": "Kolkata",
+        "phone" : "786547676",
+        "experience" : "1 year",
+        "maritalStatus" : "Single",
+        "email" : "meera08@gmail.com"
+       
+     },
+
+     {
+        "id": 8,
+        "name" : "jignesh",
+        "gender" : "M",
+        "password" : "password8",
+        "profession" : "clerk",
+        "address": "pune",
+        "phone" : "786547676",
+        "experience" : "1 year",
+        "maritalStatus" : "Single",
+        "email" : "jignesh@gmail.com"
+       
+     },
+
+     {
+        "id": 9,
+        "name" : "radha",
+        "gender" : "F",
+        "password" : "password9",
+        "profession" : "doctor",
+        "address": "Kolkata",
+        "phone" : "796547676",
+        "experience" : "1 year",
+        "maritalStatus" : "Single",
+        "email" : "radha21@gmail.com"
+       
+     },
+
+     {
+        "id": 10,
+        "name" : "aparna",
+        "gender" : "F",
+        "password" : "password10",
+        "profession" : "engineer",
+        "address": "mumbai",
+        "phone" : "780047676",
+        "experience" : "1 year",
+        "maritalStatus" : "Single",
+        "email" : "aparna88@gmail.com"
+       
+     }
+
+]
